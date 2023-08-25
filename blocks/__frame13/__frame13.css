@@ -1,0 +1,12 @@
+.Frame13 {
+display: flex;
+width: 465px;
+height: 465px;
+padding: 105px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 70px;
+background: linear-gradient(180deg, #FFE195 0%, #FF5B5B 100%);
+/*box-shadow: 5px 5px 5px black;*/
+}

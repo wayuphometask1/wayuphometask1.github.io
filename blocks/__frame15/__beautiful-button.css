@@ -1,0 +1,12 @@
+.beautiful-button {
+    background: #FF6861;
+    border-radius: 100px;
+    color: #FFFFFF;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    width: 219px;
+    /*box-shadow: 5px 5px 5px PaleVioletRed;*/
+}

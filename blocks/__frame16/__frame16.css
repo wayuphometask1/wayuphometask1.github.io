@@ -1,0 +1,6 @@
+.Frame16 {
+display: flex;
+width: 1110px;
+justify-content: space-between;
+align-items: center;
+}

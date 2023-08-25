@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.Farmgame {
+margin: 0;
+padding: 0;
+display: flex;
+padding: 80px 245px;
+align-items: center;
+/*border-radius: 50px;*/
+font-family: Arial;
+/*box-shadow: 5px 5px 5px black;*/
+}
